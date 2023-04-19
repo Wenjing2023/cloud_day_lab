@@ -20,9 +20,6 @@
     "eject": "react-scripts eject",
     "test:e2e": "cypress open"
   },
-  "eslintConfig": {
-    "extends": "react-app"
-  },
   "browserslist": {
     "production": [
       ">0.2%",
@@ -34,8 +31,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "fsevents": "^2.3.2"
   }
 }
